@@ -27,4 +27,5 @@ The forms should be purely aesthetic. They don't need to do anything, other than
 ### Resources
 
 HTML5 Cheat Sheet: https://www.wpkube.com/html5-cheat-sheet/
+
 MDN - Using HTML Sections & Outlines: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
